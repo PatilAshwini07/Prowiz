@@ -30,7 +30,7 @@ Git installed
 
 Clone the repository:
 
-git clone
+git clone https://github.com/PatilAshwini07/Prowiz.git
 
 <h4>Install dependencies:</h4>
 npm install
@@ -40,3 +40,5 @@ npm run dev
 
 <h4>Open the application in your browser:</h4>
 http://localhost:3000
+
+versal deploy link - [prowiz-two.vercel.app](https://prowiz-two.vercel.app/)
